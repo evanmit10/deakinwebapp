@@ -1,0 +1,38 @@
+.container2 {
+    margin-left: 500px;
+    margin-top: -4px;
+}
+
+
+button[type=text], input[type=submit2] {
+    width: 100%;
+    margin: 50px 0;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+
+button[type=submit2] {
+    background-color: #d2d2d2;
+    color: black;
+    border: none;
+    left: 1455px;
+    top: 24px;
+    position: absolute;
+    padding: 15px 32px;
+  
+  
+}
+
+.paddingbox {
+    padding: 50px;
+    background: lightblue;
+    background-clip: border-box;  
+}
+
+button[type=submit2]:hover {
+    opacity: 1.0;
+    background-color: #252525;
+    color: white;
+}
+

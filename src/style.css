@@ -1,0 +1,11 @@
+h2 {
+    background-color: lightgrey;
+    width: 1560px;
+    padding: 20px;
+    text-align: left;
+
+}
+
+.align-group {
+    display: "inline-block";
+}
