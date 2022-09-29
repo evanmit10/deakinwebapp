@@ -3,7 +3,6 @@ import './App.css';
 import HomePage from './routes/HomePage';
 import Login from './routes/Login';
 import SignUp from './routes/SignUp';
-import NavigationBar from './NavigationBar';
 import Post from './routes/Post';
 import Profile from './Profile';
 
